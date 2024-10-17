@@ -7,7 +7,7 @@
 
 - 🔭 I worked on [CHERI-LIBTLSF](https://github.com/secure-rewind-and-discard/libtlsf)
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vue.js**, and **C++**
 
 - 📝 I wrote a cybersecurity Master Thesis [Secure Rewind and Discard on Arm Morello](https://arxiv.org/abs/2407.04757)
 
