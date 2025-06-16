@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sacha Ruchlejmer</h1>
-<h3 align="center">An Embedded Systems Engineer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
@@ -34,7 +34,6 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
 </a>
 </p>
-  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchlejs&show_icons=true&locale=en&layout=compact" alt="ruchlejs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchlejs&show_icons=true&locale=en" alt="ruchlejs" /></p>
