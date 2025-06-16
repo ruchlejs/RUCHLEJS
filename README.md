@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sacha Ruchlejmer</h1>
-<h3 align="center">An Embedded Systems Engineer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
